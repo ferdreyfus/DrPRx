@@ -6,23 +6,16 @@
 ### We are a personalized medical record technology that allows your healthcare providers to directly share medical records and history with YOU
 
 
-## Secure medical records Solutions​ for your vital history
+## Secure medical records Solutions for your vital history
 ##### We use secure encryption for your medical records. Only YOU have access.
 
 
 
 
-
+# Site Segments
 ## Engagement
- -- Needs Copy
-
-
 ## Security
--- Needs Copy
-
-
 ## Mobility
--- Needs Copy
 
 
 
@@ -71,6 +64,8 @@ Cindy has a masters degree in Digital Forensics & Cybersecurity. In 2012, she wa
 
 
 
+## Contact Form
+###
 
 
 
